@@ -1,0 +1,1 @@
+-- select somethiung from table-NAME;
